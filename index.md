@@ -9,6 +9,12 @@ This is a commit for new changes on lab
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Example 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
